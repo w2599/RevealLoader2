@@ -19,5 +19,5 @@ iOS 16.7.10 截图：
 
 可以使用两种方式安装
 
-1. 添加[软件源](https://github.com/masterKing/sileo/blob/main/)，点击安装使用
+1. 添加软件源 [https://raw.githubusercontent.com/masterking/sileo/refs/heads/main/](https://raw.githubusercontent.com/masterking/sileo/refs/heads/main/)，点击安装使用
 2. 下载源码，自行编译安装使用
