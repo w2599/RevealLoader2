@@ -25,11 +25,11 @@
 			<array>
 				<dict>
 					<key>sectionType</key>
-					<string>User</string>
+					<string>Visible</string>
 				</dict>
 				<dict>
 					<key>sectionType</key>
-					<string>System</string>
+					<string>Hidden</string>
 				</dict>
 			</array>
 			<key>showIdentifiersAsSubtitle</key>
